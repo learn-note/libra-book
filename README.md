@@ -1,3 +1,8 @@
+
+
+* [Libra 本地测试网搭建](init-testnet.md)
+* [Libra 验证节点基本原理(TODO](libra-protocol-validator-node-validator.md)
+
 ```
 Donate:
 BTC - 1HeHGwV2VQjnjMu5KhgCc8omQAvWskhjzt
